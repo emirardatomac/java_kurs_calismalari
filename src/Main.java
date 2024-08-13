@@ -21,6 +21,14 @@ public class Main {
         public:Eğer bir metod veya özellik(class member veya alan) public olarak tanımlanmışsa,
         bu alana paketin içindeki ve dışındaki tüm classlar erişebilir.
 
+        default:Eğer bir metod veya özellik tanımlanırken hiçbir erişim belirleyici kullanılmamışsa bu alana sadece kendi paketinden
+        classlar erişebilir.
+
+        protected: Eğer bir metod veya özellik public olarak tanımlanmışsa,bu alana aynı paketin içindeki diğer classlar tarafından erişilebilir.
+        paketin dışındaki classlar ise sadece ve sadece bu alanın bulunduğu classın bir alt classıysa erişebilir.
+
+        private: Eğer bir alan private olarak tanımlanmışsa bu alana sadece kendi classı erişebilir.
+
          */
 
 

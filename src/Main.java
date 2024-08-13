@@ -1,6 +1,15 @@
 public class Main {
     public static void main(String[] args) {
         /*
+
+        !!!!!!!!!!                                                                                !!!!!!!!!
+                  Kodlar üzerinde çok değişiklik yapıldığı ve değişiklik yapılarak çalışıldığı için
+                                       kodlar anlam ifade etmeyebilir.
+        !!!!!!!!!                                                                                 !!!!!!!!!
+
+
+
+
         Acces Modifiers-Erişim Belirleyiciler
 
         Erişim belirleyiciler 2 düzeyde erişim belirlerler.
